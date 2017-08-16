@@ -7,9 +7,7 @@ var mysql = require('mysql');
 var inquirer = require('inquirer');
 
 
-// declare application variables
-
-// Connect to database
+// Connect to database AND CHANGE USER INFO HERE
 var connection = mysql.createConnection({
 	host: 'localhost',
 	user: 'root',
