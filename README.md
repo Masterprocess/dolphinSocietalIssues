@@ -1,4 +1,4 @@
-# dolphinSocietalIssues
+# uncMay17AmazonCloneChrisR
 Originally, this was to be an Amazon clone stylized after the store "Adam and Eve", but I figured employers probably wouldn't like that too much, so it's family friendly now.
 
 To get this working for yourself, you'll need to follow these steps:
